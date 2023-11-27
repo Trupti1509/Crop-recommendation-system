@@ -1,0 +1,427 @@
+State_Name,District_Name,Crop_Year,Season,Crop,Area,Production
+Madhya Pradesh,INDORE,1997,Kharif     ,Groundnut,200,200
+Madhya Pradesh,INDORE,1997,Kharif     ,Jowar,2500,2900
+Madhya Pradesh,INDORE,1997,Kharif     ,Maize,10900,11600
+Madhya Pradesh,INDORE,1997,Kharif     ,Soyabean,210700,244700
+Madhya Pradesh,INDORE,1997,Rabi       ,Linseed,1600,900
+Madhya Pradesh,INDORE,1997,Rabi       ,Wheat,115700,274200
+Madhya Pradesh,INDORE,1998,Kharif     ,Arhar/Tur,700,500
+Madhya Pradesh,INDORE,1998,Kharif     ,Groundnut,100,200
+Madhya Pradesh,INDORE,1998,Kharif     ,Jowar,1400,1800
+Madhya Pradesh,INDORE,1998,Kharif     ,Maize,9200,10800
+Madhya Pradesh,INDORE,1998,Kharif     ,Soyabean,214200,259200
+Madhya Pradesh,INDORE,1998,Rabi       ,Gram,45100,37300
+Madhya Pradesh,INDORE,1998,Rabi       ,Linseed,1300,800
+Madhya Pradesh,INDORE,1998,Rabi       ,Wheat,121800,344900
+Madhya Pradesh,INDORE,1998,Whole Year ,Sugarcane,351,8080
+Madhya Pradesh,INDORE,1999,Kharif     ,Arhar/Tur,503,419
+Madhya Pradesh,INDORE,1999,Kharif     ,Bajra,3,1
+Madhya Pradesh,INDORE,1999,Kharif     ,Cotton(lint),18,11
+Madhya Pradesh,INDORE,1999,Kharif     ,Dry ginger,13,24
+Madhya Pradesh,INDORE,1999,Kharif     ,Groundnut,151,185
+Madhya Pradesh,INDORE,1999,Kharif     ,Jowar,338,412
+Madhya Pradesh,INDORE,1999,Kharif     ,Maize,10318,14876
+Madhya Pradesh,INDORE,1999,Kharif     ,Other Kharif pulses,400,114
+Madhya Pradesh,INDORE,1999,Kharif     ,Rice,43,23
+Madhya Pradesh,INDORE,1999,Kharif     ,Sesamum,9,4
+Madhya Pradesh,INDORE,1999,Kharif     ,Soyabean,214490,318732
+Madhya Pradesh,INDORE,1999,Kharif     ,Urad,259,79
+Madhya Pradesh,INDORE,1999,Rabi       ,Barley,8,14
+Madhya Pradesh,INDORE,1999,Rabi       ,Gram,42715,37632
+Madhya Pradesh,INDORE,1999,Rabi       ,Linseed,989,667
+Madhya Pradesh,INDORE,1999,Rabi       ,Other  Rabi pulses,1303,806
+Madhya Pradesh,INDORE,1999,Rabi       ,Rapeseed &Mustard,56,46
+Madhya Pradesh,INDORE,1999,Rabi       ,Safflower,18,9
+Madhya Pradesh,INDORE,1999,Rabi       ,Wheat,128855,283060
+Madhya Pradesh,INDORE,1999,Whole Year ,Dry chillies,208,138
+Madhya Pradesh,INDORE,1999,Whole Year ,Garlic,3147,12967
+Madhya Pradesh,INDORE,1999,Whole Year ,Onion,1074,12815
+Madhya Pradesh,INDORE,1999,Whole Year ,Potato,19703,256523
+Madhya Pradesh,INDORE,1999,Whole Year ,Sannhamp,6,6
+Madhya Pradesh,INDORE,1999,Whole Year ,Sugarcane,156,4950
+Madhya Pradesh,INDORE,1999,Whole Year ,Sweet potato,29,220
+Madhya Pradesh,INDORE,2000,Kharif     ,Arhar/Tur,643,406
+Madhya Pradesh,INDORE,2000,Kharif     ,Bajra,13,10
+Madhya Pradesh,INDORE,2000,Kharif     ,Cotton(lint),2,1
+Madhya Pradesh,INDORE,2000,Kharif     ,Dry ginger,10,17
+Madhya Pradesh,INDORE,2000,Kharif     ,Groundnut,109,162
+Madhya Pradesh,INDORE,2000,Kharif     ,Jowar,476,671
+Madhya Pradesh,INDORE,2000,Kharif     ,Maize,11068,18325
+Madhya Pradesh,INDORE,2000,Kharif     ,Other Kharif pulses,227,58
+Madhya Pradesh,INDORE,2000,Kharif     ,Rice,31,16
+Madhya Pradesh,INDORE,2000,Kharif     ,Sesamum,6,3
+Madhya Pradesh,INDORE,2000,Kharif     ,Small millets,7,2
+Madhya Pradesh,INDORE,2000,Kharif     ,Soyabean,209148,215632
+Madhya Pradesh,INDORE,2000,Kharif     ,Sunflower,27,9
+Madhya Pradesh,INDORE,2000,Rabi       ,Barley,1,2
+Madhya Pradesh,INDORE,2000,Rabi       ,Gram,16726,11273
+Madhya Pradesh,INDORE,2000,Rabi       ,Linseed,148,109
+Madhya Pradesh,INDORE,2000,Rabi       ,Other  Rabi pulses,1455,813
+Madhya Pradesh,INDORE,2000,Rabi       ,Rapeseed &Mustard,1,1
+Madhya Pradesh,INDORE,2000,Rabi       ,Wheat,50606,87299
+Madhya Pradesh,INDORE,2000,Whole Year ,Coriander,39,10
+Madhya Pradesh,INDORE,2000,Whole Year ,Dry chillies,101,29
+Madhya Pradesh,INDORE,2000,Whole Year ,Garlic,1855,7431
+Madhya Pradesh,INDORE,2000,Whole Year ,Onion,644,9154
+Madhya Pradesh,INDORE,2000,Whole Year ,Sannhamp,8,6
+Madhya Pradesh,INDORE,2000,Whole Year ,Sugarcane,230,2690
+Madhya Pradesh,INDORE,2000,Whole Year ,Turmeric,2,1
+Madhya Pradesh,INDORE,2001,Kharif     ,Arhar/Tur,593,371
+Madhya Pradesh,INDORE,2001,Kharif     ,Castor seed,1,0.01
+Madhya Pradesh,INDORE,2001,Kharif     ,Cotton(lint),20,11
+Madhya Pradesh,INDORE,2001,Kharif     ,Dry ginger,14,20
+Madhya Pradesh,INDORE,2001,Kharif     ,Groundnut,164,176
+Madhya Pradesh,INDORE,2001,Kharif     ,Jowar,1081,1014
+Madhya Pradesh,INDORE,2001,Kharif     ,Maize,7682,11139
+Madhya Pradesh,INDORE,2001,Kharif     ,Other Kharif pulses,265,62
+Madhya Pradesh,INDORE,2001,Kharif     ,Rice,29,16
+Madhya Pradesh,INDORE,2001,Kharif     ,Soyabean,220438,215809
+Madhya Pradesh,INDORE,2001,Kharif     ,Sunflower,16,5
+Madhya Pradesh,INDORE,2001,Rabi       ,Barley,6,9
+Madhya Pradesh,INDORE,2001,Rabi       ,Gram,41889,27479
+Madhya Pradesh,INDORE,2001,Rabi       ,Linseed,1453,939
+Madhya Pradesh,INDORE,2001,Rabi       ,Other  Rabi pulses,1657,605
+Madhya Pradesh,INDORE,2001,Rabi       ,Rapeseed &Mustard,26,18
+Madhya Pradesh,INDORE,2001,Rabi       ,Safflower,10,6
+Madhya Pradesh,INDORE,2001,Rabi       ,Wheat,83862,115903
+Madhya Pradesh,INDORE,2001,Whole Year ,Dry chillies,81,39
+Madhya Pradesh,INDORE,2001,Whole Year ,Garlic,2155,7400
+Madhya Pradesh,INDORE,2001,Whole Year ,Onion,744,9072
+Madhya Pradesh,INDORE,2001,Whole Year ,Potato,10653,140019
+Madhya Pradesh,INDORE,2001,Whole Year ,Sugarcane,92,2140
+Madhya Pradesh,INDORE,2001,Whole Year ,Sweet potato,4,22
+Madhya Pradesh,INDORE,2001,Whole Year ,Turmeric,1,1
+Madhya Pradesh,INDORE,2002,Kharif     ,Arhar/Tur,612,347
+Madhya Pradesh,INDORE,2002,Kharif     ,Bajra,1,1
+Madhya Pradesh,INDORE,2002,Kharif     ,Cotton(lint),20,9
+Madhya Pradesh,INDORE,2002,Kharif     ,Dry ginger,2,3
+Madhya Pradesh,INDORE,2002,Kharif     ,Groundnut,380,326
+Madhya Pradesh,INDORE,2002,Kharif     ,Jowar,1652,1871
+Madhya Pradesh,INDORE,2002,Kharif     ,Maize,9768,14361
+Madhya Pradesh,INDORE,2002,Kharif     ,Other Kharif pulses,554,144
+Madhya Pradesh,INDORE,2002,Kharif     ,Rice,25,12
+Madhya Pradesh,INDORE,2002,Kharif     ,Sesamum,10,5
+Madhya Pradesh,INDORE,2002,Kharif     ,Small millets,3,1
+Madhya Pradesh,INDORE,2002,Kharif     ,Soyabean,219580,166002
+Madhya Pradesh,INDORE,2002,Rabi       ,Barley,4,7
+Madhya Pradesh,INDORE,2002,Rabi       ,Gram,27688,18025
+Madhya Pradesh,INDORE,2002,Rabi       ,Linseed,159,107
+Madhya Pradesh,INDORE,2002,Rabi       ,Other  Rabi pulses,875,316
+Madhya Pradesh,INDORE,2002,Rabi       ,Rapeseed &Mustard,41,29
+Madhya Pradesh,INDORE,2002,Rabi       ,Safflower,2,1
+Madhya Pradesh,INDORE,2002,Rabi       ,Wheat,66889,104606
+Madhya Pradesh,INDORE,2002,Whole Year ,Beans & Mutter(Vegetable),67,0
+Madhya Pradesh,INDORE,2002,Whole Year ,Bhindi,129,0
+Madhya Pradesh,INDORE,2002,Whole Year ,Brinjal,164,0
+Madhya Pradesh,INDORE,2002,Whole Year ,Cabbage,376,0
+Madhya Pradesh,INDORE,2002,Whole Year ,Cauliflower,394,0
+Madhya Pradesh,INDORE,2002,Whole Year ,Citrus Fruit,40,0
+Madhya Pradesh,INDORE,2002,Whole Year ,Coriander,44,14
+Madhya Pradesh,INDORE,2002,Whole Year ,Dry chillies,91,66
+Madhya Pradesh,INDORE,2002,Whole Year ,Garlic,2426,8331
+Madhya Pradesh,INDORE,2002,Whole Year ,Mango,51,0
+Madhya Pradesh,INDORE,2002,Whole Year ,Onion,900,10543
+Madhya Pradesh,INDORE,2002,Whole Year ,Other Fresh Fruits,296,0
+Madhya Pradesh,INDORE,2002,Whole Year ,Other Vegetables,1299,0
+Madhya Pradesh,INDORE,2002,Whole Year ,Papaya,26,0
+Madhya Pradesh,INDORE,2002,Whole Year ,Pome Fruit,401,0
+Madhya Pradesh,INDORE,2002,Whole Year ,Potato,12384,152596
+Madhya Pradesh,INDORE,2002,Whole Year ,Sannhamp,5,11
+Madhya Pradesh,INDORE,2002,Whole Year ,Sugarcane,58,1350
+Madhya Pradesh,INDORE,2002,Whole Year ,Sweet potato,44,253
+Madhya Pradesh,INDORE,2002,Whole Year ,Tomato,395,0
+Madhya Pradesh,INDORE,2002,Whole Year ,Turmeric,20,9
+Madhya Pradesh,INDORE,2003,Kharif     ,Arhar/Tur,647,415
+Madhya Pradesh,INDORE,2003,Kharif     ,Bajra,1,2
+Madhya Pradesh,INDORE,2003,Kharif     ,Castor seed,1,0
+Madhya Pradesh,INDORE,2003,Kharif     ,Cotton(lint),33,26
+Madhya Pradesh,INDORE,2003,Kharif     ,Dry ginger,17,27
+Madhya Pradesh,INDORE,2003,Kharif     ,Groundnut,391,432
+Madhya Pradesh,INDORE,2003,Kharif     ,Jowar,5059,6597
+Madhya Pradesh,INDORE,2003,Kharif     ,Maize,9825,14994
+Madhya Pradesh,INDORE,2003,Kharif     ,Other Kharif pulses,579,164
+Madhya Pradesh,INDORE,2003,Kharif     ,Rice,29,19
+Madhya Pradesh,INDORE,2003,Kharif     ,Sesamum,20,13
+Madhya Pradesh,INDORE,2003,Kharif     ,Soyabean,218452,235491
+Madhya Pradesh,INDORE,2003,Kharif     ,Urad,464,131
+Madhya Pradesh,INDORE,2003,Rabi       ,Barley,1,2
+Madhya Pradesh,INDORE,2003,Rabi       ,Gram,27823,25041
+Madhya Pradesh,INDORE,2003,Rabi       ,Linseed,135,104
+Madhya Pradesh,INDORE,2003,Rabi       ,Other  Rabi pulses,1008,462
+Madhya Pradesh,INDORE,2003,Rabi       ,Rapeseed &Mustard,42,37
+Madhya Pradesh,INDORE,2003,Rabi       ,Safflower,24,15
+Madhya Pradesh,INDORE,2003,Rabi       ,Wheat,116120,287193
+Madhya Pradesh,INDORE,2003,Whole Year ,Beans & Mutter(Vegetable),110,0
+Madhya Pradesh,INDORE,2003,Whole Year ,Bhindi,201,0
+Madhya Pradesh,INDORE,2003,Whole Year ,Brinjal,248,0
+Madhya Pradesh,INDORE,2003,Whole Year ,Cabbage,610,0
+Madhya Pradesh,INDORE,2003,Whole Year ,Cauliflower,850,0
+Madhya Pradesh,INDORE,2003,Whole Year ,Citrus Fruit,34,0
+Madhya Pradesh,INDORE,2003,Whole Year ,Coriander,47,17
+Madhya Pradesh,INDORE,2003,Whole Year ,Dry chillies,243,144
+Madhya Pradesh,INDORE,2003,Whole Year ,Garlic,3273,13112
+Madhya Pradesh,INDORE,2003,Whole Year ,Mango,55,0
+Madhya Pradesh,INDORE,2003,Whole Year ,Onion,1368,17494
+Madhya Pradesh,INDORE,2003,Whole Year ,Other Fresh Fruits,19,0
+Madhya Pradesh,INDORE,2003,Whole Year ,Other Vegetables,1331,0
+Madhya Pradesh,INDORE,2003,Whole Year ,Papaya,26,2418
+Madhya Pradesh,INDORE,2003,Whole Year ,Pome Fruit,96,0
+Madhya Pradesh,INDORE,2003,Whole Year ,Potato,13202,212025
+Madhya Pradesh,INDORE,2003,Whole Year ,Sugarcane,44,1210
+Madhya Pradesh,INDORE,2003,Whole Year ,Sweet potato,53,374
+Madhya Pradesh,INDORE,2003,Whole Year ,Tomato,505,0
+Madhya Pradesh,INDORE,2003,Whole Year ,Turmeric,1,1
+Madhya Pradesh,INDORE,2003,Whole Year ,Water Melon,8,0
+Madhya Pradesh,INDORE,2004,Kharif     ,Arhar/Tur,410,250
+Madhya Pradesh,INDORE,2004,Kharif     ,Cotton(lint),10,9
+Madhya Pradesh,INDORE,2004,Kharif     ,Dry ginger,16,26
+Madhya Pradesh,INDORE,2004,Kharif     ,Groundnut,388,498
+Madhya Pradesh,INDORE,2004,Kharif     ,Jowar,1818,2221
+Madhya Pradesh,INDORE,2004,Kharif     ,Maize,9458,10884
+Madhya Pradesh,INDORE,2004,Kharif     ,Rice,28,14
+Madhya Pradesh,INDORE,2004,Kharif     ,Sesamum,2,2
+Madhya Pradesh,INDORE,2004,Kharif     ,Small millets,2,1
+Madhya Pradesh,INDORE,2004,Kharif     ,Soyabean,220149,238642
+Madhya Pradesh,INDORE,2004,Kharif     ,Urad,448,126
+Madhya Pradesh,INDORE,2004,Rabi       ,Gram,34170,32017
+Madhya Pradesh,INDORE,2004,Rabi       ,Linseed,191,150
+Madhya Pradesh,INDORE,2004,Rabi       ,Masoor,244,85
+Madhya Pradesh,INDORE,2004,Rabi       ,Rapeseed &Mustard,697,623
+Madhya Pradesh,INDORE,2004,Rabi       ,Safflower,34,16
+Madhya Pradesh,INDORE,2004,Rabi       ,Urad,3,1
+Madhya Pradesh,INDORE,2004,Rabi       ,Wheat,117169,304862
+Madhya Pradesh,INDORE,2004,Whole Year ,Coriander,19,7
+Madhya Pradesh,INDORE,2004,Whole Year ,Garlic,3586,12313
+Madhya Pradesh,INDORE,2004,Whole Year ,Onion,1400,17873
+Madhya Pradesh,INDORE,2004,Whole Year ,Potato,12590,193565
+Madhya Pradesh,INDORE,2004,Whole Year ,Sugarcane,26,630
+Madhya Pradesh,INDORE,2004,Whole Year ,Sweet potato,76,494
+Madhya Pradesh,INDORE,2004,Whole Year ,Turmeric,1,1
+Madhya Pradesh,INDORE,2005,Kharif     ,Arhar/Tur,432,248
+Madhya Pradesh,INDORE,2005,Kharif     ,Castor seed,65,18
+Madhya Pradesh,INDORE,2005,Kharif     ,Cotton(lint),88,63
+Madhya Pradesh,INDORE,2005,Kharif     ,Groundnut,298,314
+Madhya Pradesh,INDORE,2005,Kharif     ,Jowar,425,560
+Madhya Pradesh,INDORE,2005,Kharif     ,Maize,5838,6479
+Madhya Pradesh,INDORE,2005,Kharif     ,Moong(Green Gram),85,21
+Madhya Pradesh,INDORE,2005,Kharif     ,Rice,20,10
+Madhya Pradesh,INDORE,2005,Kharif     ,Sesamum,14,7
+Madhya Pradesh,INDORE,2005,Kharif     ,Soyabean,209908,236356
+Madhya Pradesh,INDORE,2005,Kharif     ,Urad,504,118
+Madhya Pradesh,INDORE,2005,Rabi       ,Gram,26834,24312
+Madhya Pradesh,INDORE,2005,Rabi       ,Linseed,98,74
+Madhya Pradesh,INDORE,2005,Rabi       ,Masoor,149,47
+Madhya Pradesh,INDORE,2005,Rabi       ,Peas & beans (Pulses),264,84
+Madhya Pradesh,INDORE,2005,Rabi       ,Rapeseed &Mustard,691,594
+Madhya Pradesh,INDORE,2005,Rabi       ,Wheat,62048,93673
+Madhya Pradesh,INDORE,2005,Whole Year ,Onion,1402,17113
+Madhya Pradesh,INDORE,2005,Whole Year ,Potato,13266,175748
+Madhya Pradesh,INDORE,2005,Whole Year ,Sugarcane,23,490
+Madhya Pradesh,INDORE,2005,Whole Year ,Sweet potato,16,104
+Madhya Pradesh,INDORE,2006,Kharif     ,Arhar/Tur,499,299
+Madhya Pradesh,INDORE,2006,Kharif     ,Cotton(lint),50,37
+Madhya Pradesh,INDORE,2006,Kharif     ,Dry ginger,11,19
+Madhya Pradesh,INDORE,2006,Kharif     ,Groundnut,323,286
+Madhya Pradesh,INDORE,2006,Kharif     ,Jowar,429,572
+Madhya Pradesh,INDORE,2006,Kharif     ,Maize,8509,7480
+Madhya Pradesh,INDORE,2006,Kharif     ,Moong(Green Gram),83,21
+Madhya Pradesh,INDORE,2006,Kharif     ,Other Kharif pulses,5,1
+Madhya Pradesh,INDORE,2006,Kharif     ,Rice,22,12
+Madhya Pradesh,INDORE,2006,Kharif     ,Soyabean,224193,275982
+Madhya Pradesh,INDORE,2006,Kharif     ,Urad,245,57
+Madhya Pradesh,INDORE,2006,Rabi       ,Gram,35708,36315
+Madhya Pradesh,INDORE,2006,Rabi       ,Khesari,12,13
+Madhya Pradesh,INDORE,2006,Rabi       ,Linseed,129,105
+Madhya Pradesh,INDORE,2006,Rabi       ,Masoor,156,47
+Madhya Pradesh,INDORE,2006,Rabi       ,Moong(Green Gram),4,1
+Madhya Pradesh,INDORE,2006,Rabi       ,Peas & beans (Pulses),275,91
+Madhya Pradesh,INDORE,2006,Rabi       ,Rapeseed &Mustard,671,679
+Madhya Pradesh,INDORE,2006,Rabi       ,Safflower,22,12
+Madhya Pradesh,INDORE,2006,Rabi       ,Wheat,132337,332631
+Madhya Pradesh,INDORE,2006,Whole Year ,Coriander,162,54
+Madhya Pradesh,INDORE,2006,Whole Year ,Dry chillies,100,87
+Madhya Pradesh,INDORE,2006,Whole Year ,Garlic,3145,12732
+Madhya Pradesh,INDORE,2006,Whole Year ,Onion,1403,22968
+Madhya Pradesh,INDORE,2006,Whole Year ,Potato,14909,195964
+Madhya Pradesh,INDORE,2006,Whole Year ,Sesamum,3,1
+Madhya Pradesh,INDORE,2006,Whole Year ,Sugarcane,30,630
+Madhya Pradesh,INDORE,2006,Whole Year ,Sweet potato,42,282
+Madhya Pradesh,INDORE,2007,Kharif     ,Arhar/Tur,515,324
+Madhya Pradesh,INDORE,2007,Kharif     ,Cotton(lint),1,6
+Madhya Pradesh,INDORE,2007,Kharif     ,Groundnut,301,296
+Madhya Pradesh,INDORE,2007,Kharif     ,Jowar,406,643
+Madhya Pradesh,INDORE,2007,Kharif     ,Maize,8899,10394
+Madhya Pradesh,INDORE,2007,Kharif     ,Rice,20,11
+Madhya Pradesh,INDORE,2007,Kharif     ,Soyabean,226047,315336
+Madhya Pradesh,INDORE,2007,Kharif     ,Urad,261,74
+Madhya Pradesh,INDORE,2007,Rabi       ,Barley,1,2
+Madhya Pradesh,INDORE,2007,Rabi       ,Gram,36887,34748
+Madhya Pradesh,INDORE,2007,Rabi       ,Khesari,47,41
+Madhya Pradesh,INDORE,2007,Rabi       ,Linseed,122,89
+Madhya Pradesh,INDORE,2007,Rabi       ,Masoor,165,63
+Madhya Pradesh,INDORE,2007,Rabi       ,Peas & beans (Pulses),289,109
+Madhya Pradesh,INDORE,2007,Rabi       ,Rapeseed &Mustard,623,587
+Madhya Pradesh,INDORE,2007,Rabi       ,Safflower,7,4
+Madhya Pradesh,INDORE,2007,Rabi       ,Wheat,126748,244343
+Madhya Pradesh,INDORE,2007,Whole Year ,Coriander,211,78
+Madhya Pradesh,INDORE,2007,Whole Year ,Garlic,3770,15262
+Madhya Pradesh,INDORE,2007,Whole Year ,Onion,1825,21323
+Madhya Pradesh,INDORE,2007,Whole Year ,Potato,18738,269665
+Madhya Pradesh,INDORE,2007,Whole Year ,Sesamum,1,
+Madhya Pradesh,INDORE,2007,Whole Year ,Sugarcane,34,1040
+Madhya Pradesh,INDORE,2007,Whole Year ,Sweet potato,3,20
+Madhya Pradesh,INDORE,2008,Kharif     ,Arhar/Tur,271,187
+Madhya Pradesh,INDORE,2008,Kharif     ,Castor seed,7,2
+Madhya Pradesh,INDORE,2008,Kharif     ,Cotton(lint),8,1
+Madhya Pradesh,INDORE,2008,Kharif     ,Groundnut,212,226
+Madhya Pradesh,INDORE,2008,Kharif     ,Jowar,307,452
+Madhya Pradesh,INDORE,2008,Kharif     ,Maize,8138,10504
+Madhya Pradesh,INDORE,2008,Kharif     ,Rice,11,7
+Madhya Pradesh,INDORE,2008,Kharif     ,Soyabean,220991,335243
+Madhya Pradesh,INDORE,2008,Kharif     ,Urad,261,78
+Madhya Pradesh,INDORE,2008,Rabi       ,Gram,94986,97456
+Madhya Pradesh,INDORE,2008,Rabi       ,Khesari,26,28
+Madhya Pradesh,INDORE,2008,Rabi       ,Linseed,94,73
+Madhya Pradesh,INDORE,2008,Rabi       ,Masoor,90,32
+Madhya Pradesh,INDORE,2008,Rabi       ,Peas & beans (Pulses),231,91
+Madhya Pradesh,INDORE,2008,Rabi       ,Rapeseed &Mustard,242,256
+Madhya Pradesh,INDORE,2008,Rabi       ,Wheat,57927,134431
+Madhya Pradesh,INDORE,2008,Whole Year ,Coriander,221,80
+Madhya Pradesh,INDORE,2008,Whole Year ,Garlic,3350,12593
+Madhya Pradesh,INDORE,2008,Whole Year ,Onion,1680,21127
+Madhya Pradesh,INDORE,2008,Whole Year ,Potato,16482,211865
+Madhya Pradesh,INDORE,2008,Whole Year ,Sesamum,1,
+Madhya Pradesh,INDORE,2008,Whole Year ,Sugarcane,63,1760
+Madhya Pradesh,INDORE,2008,Whole Year ,Turmeric,4,4
+Madhya Pradesh,INDORE,2009,Kharif     ,Jowar,362,604
+Madhya Pradesh,INDORE,2009,Kharif     ,Moong(Green Gram),98,30
+Madhya Pradesh,INDORE,2009,Kharif     ,Urad,182,51
+Madhya Pradesh,INDORE,2009,Whole Year ,Arhar/Tur,653,475
+Madhya Pradesh,INDORE,2009,Whole Year ,Coriander,103,40
+Madhya Pradesh,INDORE,2009,Whole Year ,Cotton(lint),5,1
+Madhya Pradesh,INDORE,2009,Whole Year ,Dry chillies,190,233
+Madhya Pradesh,INDORE,2009,Whole Year ,Dry ginger,26,48
+Madhya Pradesh,INDORE,2009,Whole Year ,Garlic,3443,12345
+Madhya Pradesh,INDORE,2009,Whole Year ,Gram,67927,82124
+Madhya Pradesh,INDORE,2009,Whole Year ,Groundnut,295,355
+Madhya Pradesh,INDORE,2009,Whole Year ,Khesari,30,28
+Madhya Pradesh,INDORE,2009,Whole Year ,Linseed,54,48
+Madhya Pradesh,INDORE,2009,Whole Year ,Maize,5023,5843
+Madhya Pradesh,INDORE,2009,Whole Year ,Masoor,357,151
+Madhya Pradesh,INDORE,2009,Whole Year ,Onion,4622,60237
+Madhya Pradesh,INDORE,2009,Whole Year ,Peas & beans (Pulses),857,362
+Madhya Pradesh,INDORE,2009,Whole Year ,Potato,17280,235280
+Madhya Pradesh,INDORE,2009,Whole Year ,Rapeseed &Mustard,268,288
+Madhya Pradesh,INDORE,2009,Whole Year ,Rice,3,2
+Madhya Pradesh,INDORE,2009,Whole Year ,Safflower,6,3
+Madhya Pradesh,INDORE,2009,Whole Year ,Sesamum,1,
+Madhya Pradesh,INDORE,2009,Whole Year ,Soyabean,226819,401470
+Madhya Pradesh,INDORE,2009,Whole Year ,Sugarcane,44,1210
+Madhya Pradesh,INDORE,2009,Whole Year ,Wheat,101511,220142
+Madhya Pradesh,INDORE,2010,Kharif     ,Arhar/Tur,580,219
+Madhya Pradesh,INDORE,2010,Kharif     ,Groundnut,275,359
+Madhya Pradesh,INDORE,2010,Kharif     ,Jowar,238,491
+Madhya Pradesh,INDORE,2010,Kharif     ,Maize,9245,11676
+Madhya Pradesh,INDORE,2010,Kharif     ,Moong(Green Gram),78,26
+Madhya Pradesh,INDORE,2010,Kharif     ,Other Kharif pulses,2,1
+Madhya Pradesh,INDORE,2010,Kharif     ,Rice,5,5
+Madhya Pradesh,INDORE,2010,Kharif     ,Soyabean,223079,254915
+Madhya Pradesh,INDORE,2010,Kharif     ,Urad,108,33
+Madhya Pradesh,INDORE,2010,Rabi       ,Gram,63775,40370
+Madhya Pradesh,INDORE,2010,Rabi       ,Khesari,32,24
+Madhya Pradesh,INDORE,2010,Rabi       ,Linseed,26,19
+Madhya Pradesh,INDORE,2010,Rabi       ,Masoor,264,75
+Madhya Pradesh,INDORE,2010,Rabi       ,Moong(Green Gram),1,
+Madhya Pradesh,INDORE,2010,Rabi       ,Peas & beans (Pulses),577,167
+Madhya Pradesh,INDORE,2010,Rabi       ,Rapeseed &Mustard,127,117
+Madhya Pradesh,INDORE,2010,Rabi       ,Safflower,1,1
+Madhya Pradesh,INDORE,2010,Rabi       ,Urad,1,
+Madhya Pradesh,INDORE,2010,Rabi       ,Wheat,107884,271277
+Madhya Pradesh,INDORE,2010,Whole Year ,Coriander,37,15
+Madhya Pradesh,INDORE,2010,Whole Year ,Dry chillies,233,589
+Madhya Pradesh,INDORE,2010,Whole Year ,Dry ginger,11,21
+Madhya Pradesh,INDORE,2010,Whole Year ,Garlic,4309,13380
+Madhya Pradesh,INDORE,2010,Whole Year ,Onion,2513,37533
+Madhya Pradesh,INDORE,2010,Whole Year ,Potato,21908,155782
+Madhya Pradesh,INDORE,2010,Whole Year ,Sesamum,1,
+Madhya Pradesh,INDORE,2010,Whole Year ,Sugarcane,25,690
+Madhya Pradesh,INDORE,2010,Whole Year ,Turmeric,9,6
+Madhya Pradesh,INDORE,2011,Kharif     ,Arhar/Tur,590,322
+Madhya Pradesh,INDORE,2011,Kharif     ,Groundnut,295,404
+Madhya Pradesh,INDORE,2011,Kharif     ,Jowar,154,269
+Madhya Pradesh,INDORE,2011,Kharif     ,Maize,4320,5036
+Madhya Pradesh,INDORE,2011,Kharif     ,Moong(Green Gram),84,18
+Madhya Pradesh,INDORE,2011,Kharif     ,Rice,3,3
+Madhya Pradesh,INDORE,2011,Kharif     ,Sannhamp,5,6
+Madhya Pradesh,INDORE,2011,Kharif     ,Soyabean,226407,262859
+Madhya Pradesh,INDORE,2011,Kharif     ,Urad,71,15
+Madhya Pradesh,INDORE,2011,Rabi       ,Gram,57398,75406
+Madhya Pradesh,INDORE,2011,Rabi       ,Khesari,4,4
+Madhya Pradesh,INDORE,2011,Rabi       ,Linseed,23,28
+Madhya Pradesh,INDORE,2011,Rabi       ,Masoor,310,87
+Madhya Pradesh,INDORE,2011,Rabi       ,Moong(Green Gram),1,
+Madhya Pradesh,INDORE,2011,Rabi       ,Peas & beans (Pulses),813,232
+Madhya Pradesh,INDORE,2011,Rabi       ,Rapeseed &Mustard,126,156
+Madhya Pradesh,INDORE,2011,Rabi       ,Urad,1,
+Madhya Pradesh,INDORE,2011,Rabi       ,Wheat,113426,511291
+Madhya Pradesh,INDORE,2011,Whole Year ,Coriander,80,31
+Madhya Pradesh,INDORE,2011,Whole Year ,Dry chillies,140,163
+Madhya Pradesh,INDORE,2011,Whole Year ,Dry ginger,27,39
+Madhya Pradesh,INDORE,2011,Whole Year ,Garlic,4607,13673
+Madhya Pradesh,INDORE,2011,Whole Year ,Onion,2740,43728
+Madhya Pradesh,INDORE,2011,Whole Year ,Potato,21930,311346
+Madhya Pradesh,INDORE,2011,Whole Year ,Sesamum,1,
+Madhya Pradesh,INDORE,2011,Whole Year ,Sugarcane,23,460
+Madhya Pradesh,INDORE,2011,Whole Year ,Sweet potato,154,855
+Madhya Pradesh,INDORE,2012,Kharif     ,Arhar/Tur,553,327
+Madhya Pradesh,INDORE,2012,Kharif     ,Groundnut,257,324
+Madhya Pradesh,INDORE,2012,Kharif     ,Jowar,196,369
+Madhya Pradesh,INDORE,2012,Kharif     ,Maize,5317,8766
+Madhya Pradesh,INDORE,2012,Kharif     ,Moong(Green Gram),78,24
+Madhya Pradesh,INDORE,2012,Kharif     ,Rice,4,4
+Madhya Pradesh,INDORE,2012,Kharif     ,Sannhamp,1,
+Madhya Pradesh,INDORE,2012,Kharif     ,Soyabean,228176,331768
+Madhya Pradesh,INDORE,2012,Kharif     ,Urad,75,23
+Madhya Pradesh,INDORE,2012,Rabi       ,Gram,59579,80768
+Madhya Pradesh,INDORE,2012,Rabi       ,Linseed,22,17
+Madhya Pradesh,INDORE,2012,Rabi       ,Masoor,298,116
+Madhya Pradesh,INDORE,2012,Rabi       ,Moong(Green Gram),1,
+Madhya Pradesh,INDORE,2012,Rabi       ,Peas & beans (Pulses),794,342
+Madhya Pradesh,INDORE,2012,Rabi       ,Rapeseed &Mustard,101,93
+Madhya Pradesh,INDORE,2012,Rabi       ,Safflower,2,1
+Madhya Pradesh,INDORE,2012,Rabi       ,Wheat,118434,582817
+Madhya Pradesh,INDORE,2012,Whole Year ,Coriander,95,27
+Madhya Pradesh,INDORE,2012,Whole Year ,Dry chillies,145,217
+Madhya Pradesh,INDORE,2012,Whole Year ,Dry ginger,6,9
+Madhya Pradesh,INDORE,2012,Whole Year ,Garlic,4313,17459
+Madhya Pradesh,INDORE,2012,Whole Year ,Onion,2770,43892
+Madhya Pradesh,INDORE,2012,Whole Year ,Potato,20425,256196
+Madhya Pradesh,INDORE,2012,Whole Year ,Sesamum,1,
+Madhya Pradesh,INDORE,2012,Whole Year ,Sugarcane,3,80
+Madhya Pradesh,INDORE,2012,Whole Year ,Turmeric,2,2
+Madhya Pradesh,INDORE,2013,Kharif     ,Arhar/Tur,488,286
+Madhya Pradesh,INDORE,2013,Kharif     ,Cotton(lint),38,35
+Madhya Pradesh,INDORE,2013,Kharif     ,Groundnut,116,123
+Madhya Pradesh,INDORE,2013,Kharif     ,Jowar,181,212
+Madhya Pradesh,INDORE,2013,Kharif     ,Maize,4240,5065
+Madhya Pradesh,INDORE,2013,Kharif     ,Moong(Green Gram),95,26
+Madhya Pradesh,INDORE,2013,Kharif     ,Other Kharif pulses,6,2
+Madhya Pradesh,INDORE,2013,Kharif     ,Rice,5,2
+Madhya Pradesh,INDORE,2013,Kharif     ,Soyabean,231222,232841
+Madhya Pradesh,INDORE,2013,Kharif     ,Urad,85,26
+Madhya Pradesh,INDORE,2013,Rabi       ,Gram,67221,64032
+Madhya Pradesh,INDORE,2013,Rabi       ,Khesari,3,3
+Madhya Pradesh,INDORE,2013,Rabi       ,Linseed,9,5
+Madhya Pradesh,INDORE,2013,Rabi       ,Masoor,292,116
+Madhya Pradesh,INDORE,2013,Rabi       ,Peas & beans (Pulses),820,353
+Madhya Pradesh,INDORE,2013,Rabi       ,Rapeseed &Mustard,64,41
+Madhya Pradesh,INDORE,2013,Rabi       ,Wheat,115881,347108
+Madhya Pradesh,INDORE,2013,Whole Year ,Coriander,35,11
+Madhya Pradesh,INDORE,2013,Whole Year ,Dry chillies,120,98
+Madhya Pradesh,INDORE,2013,Whole Year ,Dry ginger,11,24
+Madhya Pradesh,INDORE,2013,Whole Year ,Garlic,4086,18904
+Madhya Pradesh,INDORE,2013,Whole Year ,Onion,2623,35599
+Madhya Pradesh,INDORE,2013,Whole Year ,Potato,20124,215885
+Madhya Pradesh,INDORE,2013,Whole Year ,Sesamum,1,
+Madhya Pradesh,INDORE,2013,Whole Year ,Sugarcane,34,890
+Madhya Pradesh,INDORE,2013,Whole Year ,Sweet potato,3,16
